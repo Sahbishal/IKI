@@ -21,6 +21,7 @@ from routers import upload, chat, documents, graph, reports, dashboard
 
 load_dotenv()
 
+
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
