@@ -21,6 +21,7 @@ export default {
           900: '#1e3a8a',
         },
         
+        
         surface: {
           50:  '#f8fafc',
           100: '#f1f5f9',
