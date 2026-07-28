@@ -11,6 +11,7 @@ router = APIRouter()
 
 
 @router.get("/")
+
 async def get_graph():
     """Get full knowledge graph for visualization"""
     return knowledge_graph.to_vis_format()
