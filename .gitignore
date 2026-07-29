@@ -11,6 +11,7 @@ env/
 .env.local
 
 
+
 # FastAPI / Backend
 *.db
 *.sqlite
